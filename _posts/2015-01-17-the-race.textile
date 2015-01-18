@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "The race"
+---
+div(story-page). !/assets/the-race/the-race-01.png!
+
+div(story-page). !/assets/the-race/the-race-02.png!
+
+div(story-page). !/assets/the-race/the-race-03.png!
