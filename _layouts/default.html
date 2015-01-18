@@ -1,20 +1,30 @@
 <!DOCTYPE html>
 <html>
-
   {% include head.html %}
-
   <body>
+    <div class="wrapper">
+      <div class="nav">
+        <div class="profile">
+          <a href="{{site.url}}">
+            <img class="icon" src="http://38.media.tumblr.com/avatar_da7ba230e493_64.gif">
+          </a>
+          <a href="{{site.url}}">{{site.title}}</a>
+        </div>
 
-    {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
+        <hr/>
+        <ul>
+          {% for node in site.posts %}
+            {% if page.url == node.url %}
+              <li class="link-item active"><a href="{{node.url}}" class="active">{{node.title}}</a></li>
+            {% else %}
+              <li class="link-item"><a href="{{node.url}}">{{node.title}}</a></li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="content">
         {{ content }}
       </div>
     </div>
-
-    {% include footer.html %}
-
   </body>
-
 </html>
