@@ -1,0 +1,5 @@
+---
+layout: post
+title:  "Horse comics"
+---
+div(story-page). !/assets/single-page/horse-comics-01.png!

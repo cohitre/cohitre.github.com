@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Mammal and reptile"
+---
+div(story-page). !/assets/mammal-and-reptile/mammal-and-reptile-01.png!
+
+div(story-page). !/assets/mammal-and-reptile/mammal-and-reptile-02.png!
+
+div(story-page). !/assets/mammal-and-reptile/mammal-and-reptile-03.png!
+
+div(story-page). !/assets/mammal-and-reptile/mammal-and-reptile-04.png!

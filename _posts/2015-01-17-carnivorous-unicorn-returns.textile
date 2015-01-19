@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Carnivorous unicorn returns"
+---
+div(story-page). !/assets/carnivorous-unicorn-returns/carnivorous-unicorn-returns-01.png!
+
+div(story-page). !/assets/carnivorous-unicorn-returns/carnivorous-unicorn-returns-02.png!
+
+div(story-page). !/assets/carnivorous-unicorn-returns/carnivorous-unicorn-returns-03.png!
+
+div(story-page). !/assets/carnivorous-unicorn-returns/carnivorous-unicorn-returns-04.png!

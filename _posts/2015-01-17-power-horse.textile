@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Power horse"
+---
+div(story-page). !/assets/power-horse/power-horse-01.png!
+
+div(story-page). !/assets/power-horse/power-horse-02.png!

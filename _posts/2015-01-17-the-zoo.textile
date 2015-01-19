@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "The zoo"
+---
+div(story-page). !/assets/the-zoo/the-zoo-01.png!
+
+div(story-page). !/assets/the-zoo/the-zoo-02.png!
+
+div(story-page). !/assets/the-zoo/the-zoo-03.png!
+
+div(story-page). !/assets/the-zoo/the-zoo-04.png!
+
+div(story-page). !/assets/the-zoo/the-zoo-05.png!

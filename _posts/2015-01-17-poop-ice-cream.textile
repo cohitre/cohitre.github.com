@@ -1,0 +1,5 @@
+---
+layout: post
+title:  "Poop ice cream"
+---
+div(story-page). !/assets/single-page/poop-ice-cream-01.png!

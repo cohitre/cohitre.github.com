@@ -1,0 +1,5 @@
+---
+layout: post
+title:  "iPod"
+---
+div(story-page). !/assets/single-page/ipod-01.png!

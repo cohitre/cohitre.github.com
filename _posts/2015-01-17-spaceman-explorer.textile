@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Spaceman explorer"
+---
+div(story-page). !/assets/spaceman-explorer/spaceman-explorer-01.png!
+
+div(story-page). !/assets/spaceman-explorer/spaceman-explorer-02.png!

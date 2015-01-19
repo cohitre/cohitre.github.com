@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Important race"
+---
+div(story-page). !/assets/important-race/important-race-01.png!
+
+div(story-page). !/assets/important-race/important-race-02.png!

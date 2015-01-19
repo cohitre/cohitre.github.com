@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Burger"
+---
+div(story-page). !/assets/burger/burger-01.png!
+
+div(story-page). !/assets/burger/burger-02.png!
+
+div(story-page). !/assets/burger/burger-03.png!
