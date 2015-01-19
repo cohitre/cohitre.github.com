@@ -8,5 +8,48 @@ url: "http://cohitre.com" # the base hostname & protocol for your site
 twitter_username: cohitre
 github_username:  cohitre
 
+links:
+  - name: "Angry shark"
+    link: "angry-shark"
+
+  - name: "Burger"
+    link: "burger"
+
+  - name: "Carnivorous unicorn"
+    link: carnivorous-unicorn
+
+  - name: "Carnivorous unicorn returns"
+    link: carnivorous-unicorn-returns
+
+  - name: "Horse breakfast"
+    link: "horse-breakfast"
+
+  - name: "Horse comics"
+    link: horse-comics
+
+  - name: "Important race"
+    link: important-race
+
+  - name: "iPod"
+    link: "ipod"
+
+  - name: "Mammal and reptile"
+    link: mammal-and-reptile
+
+  - name: "Poop ice cream"
+    link: poop-ice-cream
+
+  - name: "Power horse"
+    link: power-horse
+
+  - name: "Spaceman explorer"
+    link: "spaceman-explorer"
+
+  - name: "The race"
+    link: the-race
+
+  - name: "The zoo"
+    link: the-zoo
+
 # Build settings
 markdown: kramdown

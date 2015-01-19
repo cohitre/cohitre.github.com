@@ -13,11 +13,15 @@
 
         <hr/>
         <ul>
-          {% for node in site.posts %}
+          {% for node in site.links %}
             {% if page.url == node.url %}
-              <li class="link-item active"><a href="{{node.url}}" class="active">{{node.title}}</a></li>
+              <li class="link-item active">
+                <a href="/stories/{{node.link}}" class="active">{{node.name}}</a>
+              </li>
             {% else %}
-              <li class="link-item"><a href="{{node.url}}">{{node.title}}</a></li>
+              <li class="link-item">
+                <a href="/stories/{{node.link}}" class="active">{{node.name}}</a>
+              </li>
             {% endif %}
           {% endfor %}
         </ul>
