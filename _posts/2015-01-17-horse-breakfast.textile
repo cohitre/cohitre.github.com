@@ -2,6 +2,6 @@
 layout: post
 title:  "Horse breakfast"
 ---
-div(story-page). !/assets/horse-breakfast/the-race-01.png!
+div(story-page). !/assets/horse-breakfast/horse-breakfast-01.png!
 
-div(story-page). !/assets/horse-breakfast/the-race-02.png!
+div(story-page). !/assets/horse-breakfast/horse-breakfast-02.png!
